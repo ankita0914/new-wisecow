@@ -1,7 +1,3 @@
-<img width="1745" height="791" alt="Screenshot 2025-09-21 020025" src="https://github.com/user-attachments/assets/0a72f6d8-39b5-424a-bb94-6de1b04575d8" />Got it! I can create a ready-to-use **README.md** file and a **Git project structure** for `new-wisecow` exactly using the content you provided. Here's how it would look:
-
----
-
 ### **README.md**
 
 ````markdown
