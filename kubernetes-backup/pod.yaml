@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: wisecow-pod
+spec:
+  containers:
+  - name: wisecow
+    image: ankita1406/wisecow:latest
+    ports:
+    - containerPort: 80
+
