@@ -1,10 +1,5 @@
 ### **README.md**
 
-````markdown
-<p align="center">
-<img src="https://i.imgur.com/uG9Xy9l.png" alt="WiseCow Logo">
-</p>
-
 # **Wisecow Application**
 
 The **Wisecow** application is a simple, lightweight utility that combines a fortune cookie message with a text-based cow image, all packaged and deployed as a modern, containerized application. It's a fun project to demonstrate a complete development and deployment lifecycle, from initial coding to CI/CD automation.
